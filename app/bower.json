@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "authors": [
+    "sirinapha88 <sirinapha.dube@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "angular": "^1.5.7",
+    "backbone": "^1.3.3"
+  }
+}
